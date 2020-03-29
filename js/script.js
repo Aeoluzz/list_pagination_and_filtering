@@ -65,4 +65,3 @@ function appendPageLinks(list) {
 showPage(list, 1);
 appendPageLinks(list);
 
-// Remember to delete the comments that came with this file, and replace them with your own code comments.
